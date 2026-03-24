@@ -1,7 +1,7 @@
 # Building Java Projects with Maven
 # Test deprojet v2v tu est les meuileur bg tetstt   s_g iaslgi  du  adg iguadig uadiug  gad ad  gadi    ad
 This guide walks you through using Maven to build a simple Java project.
-Hey Michel
+Hey Michel ok si tu veux
 
 ## What you’ll build
 You’ll create an application that provides the time of day and then build it with Maven.
